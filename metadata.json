@@ -1,0 +1,6 @@
+{
+  "name": "TalentSphere AI",
+  "description": "Evidence-based AI recruitment decision-support platform with candidate intelligence, skill verification, online assessment IDE, interview generator, and decision analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
