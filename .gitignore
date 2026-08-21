@@ -1,8 +1,27 @@
+# Dependencies
 node_modules/
+target/
+
+# Build outputs
 build/
 dist/
 coverage/
-.DS_Store
-*.log
-.env*
+
+# Environment Variables & Secrets
+.env
+.env.*
+.env.local
+.env.*.local
+*.env
 !.env.example
+!**/.env.example
+
+# Uploads & logs
+uploads/
+*.log
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml
